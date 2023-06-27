@@ -4,8 +4,10 @@
 
 ## Technology stack
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2965f1)![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2965f1)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
